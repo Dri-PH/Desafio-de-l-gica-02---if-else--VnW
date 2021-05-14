@@ -20,7 +20,6 @@ if ((_age >= 18) && (isHuman)){
 
 //3
 var month = `Janeiro`
-
 if ((month === `Janeiro`) || (month === `Dezembro`)){
     console.log (`Você faz aniversário em Janeiro ou Dezembro`)
 }
